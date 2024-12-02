@@ -1,12 +1,4 @@
-/*
-Exp 11 Task 1
-Title :WAP to maintain a simple empolyee database using file handling.
-Name :Saksham Jha
-Class :First Year
-DIV :C
-Roll no. :061
-UIN :241P067
-*/
+
 
 #include <stdio.h>
 #include <string.h>
